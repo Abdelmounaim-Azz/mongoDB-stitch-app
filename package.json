@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-serverless-stitch",
+  "version": "1.0",
+  "dependencies": {
+    "bson": "^4.2.3",
+    "mongodb": "^3.6.5",
+    "mongodb-stitch-browser-sdk": "^4.8.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
